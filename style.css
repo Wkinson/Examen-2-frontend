@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap);
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px;
+    margin: 0;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 1.5rem;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+}
+
+
+.container-main {
+    margin: 40px 10px;
+    padding: 1rem; 
+    background-color: antiquewhite;
+}
+
+.title-pag {
+    font-size: 2.3rem;
+    margin-bottom: 0;
+}
+
+#img-div{
+    background-color: #f6e1c6;
+    margin: 2rem auto;
+    padding: 20px;
+    
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    margin-top: 15px;
+    font-size: 1.2rem;
+}
+
+.head-lineTime {
+    display: block;
+    margin: 4rem;
+} 
+
+.point-time {
+    list-style: none;
+    max-width: 600px;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 auto 40px auto;
+}
+
+.white { 
+    margin-bottom: 8px;
+    padding: 10px;
+    background-color: #fae0bf;
+    border-radius: 7px;
+}
+
+.black {
+    margin-bottom: 8px;
+    padding: 10px;
+    background-color: #fad6a8;
+    border-radius: 7px;
+}
+
+.container-cite { 
+    max-width: 500px;
+    text-align: left;
+    margin: 0 auto 30px auto;
+}
